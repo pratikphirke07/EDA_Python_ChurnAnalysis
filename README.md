@@ -1,6 +1,8 @@
 # EDA_Python_ChurnAnalysis
 Exploratory Data Analysis - Customer Churn Analysis using Python
 
+# For EDA, please refer EDA_python_churn_analysis.
+
 ## What is Customer churn?
 Customer churn, also known as customer attrition, refers to the rate at which customers stop doing business with a company over a specific period of time. It's a critical metric for businesses as it reflects customer satisfaction, loyalty, and the overall health of the business. High churn rates indicate that a significant number of customers are leaving, which can signal problems with the product, service, or customer experience. Reducing churn is essential for sustaining growth, profitability, and long-term success.
 
@@ -21,4 +23,14 @@ In telecommunication industry, customer churn can occur due to various reasons. 
 
 ## Suggestions for potential areas to explore and address:
 * **Improve Customer Experience for Monthly Contract Customers:**
-    * Test
+    * Introduce loyalty programs or discounts for long-term contracts.
+    * Enhance the value proposition for monthly subscribers with exclusive benefits or features.
+* **Enhance Online Security and Tech Support Services:**
+    * Offer bundled packages that include online security and tech support services at a discounted rate.
+    * Improve the quality and accessibility of tech support to ensure customers feel supported and secure.
+* **Optimize Service Offerings Based on Tenure and Monthly Charges:**
+    * For customers with high monthly charges and low tenure, offer incentives to extend their subscription period.
+    * Ensure that customers are aware of and can easily access all features and benefits included in their service plan.
+* **Targeted Marketing and Retention Strategies for Non-Senior Citizens:**
+    * Develop targeted marketing campaigns aimed at younger demographics, highlighting features and benefits that appeal to them.
+    * Conduct surveys or focus groups to understand the specific needs and pain points of non-senior customers, and tailor services accordingly.
