@@ -1,7 +1,7 @@
 # EDA_Python_ChurnAnalysis
 Exploratory Data Analysis - Customer Churn Analysis using Python
 
-## For EDA, please refer EDA_python_churn_analysis.
+## For EDA, please refer [EDA_python_churn_analysis](https://github.com/pratikphirke07/EDA_Python_ChurnAnalysis/blob/main/EDA_python_churn_analysis.ipynb).
 
 ## What is Customer churn?
 Customer churn, also known as customer attrition, refers to the rate at which customers stop doing business with a company over a specific period of time. It's a critical metric for businesses as it reflects customer satisfaction, loyalty, and the overall health of the business. High churn rates indicate that a significant number of customers are leaving, which can signal problems with the product, service, or customer experience. Reducing churn is essential for sustaining growth, profitability, and long-term success.
